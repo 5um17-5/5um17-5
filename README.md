@@ -27,19 +27,8 @@ Dedicated and proactive IT System Administrator passionate about cybersecurity. 
 - **System Admin:** OS/Firmware updates, Security patches, Backup/Restore, Microsoft 365, Remote Support
   
 
-### 💼 Experience Highlights:
-
-- **IT System Administrator** (Spark Group, Nepal) - IT support, Active Directory, Azure AD.
-  
-- **IT Career Switch** (Cybersecurity Traineeship, UK) - Certifications prep.
-  
-- **IT Administrator/Consultant** (PWG, Shruti Store, Nepal) - Infrastructure setup, web/CRM management.
-  
-- **Hardware/Network Technician** (UKCP, London) - PC/Network assembly, troubleshooting.
-  
-
 ### 🌐 Let's Connect:
 
 - **Email:** Sumitshrestha69@gmail.com
   
-- **LinkedIn:** [Your LinkedIn Profile URL Here] (Highly Recommended: Add your actual LinkedIn profile link)
+- **LinkedIn:** www.linkedin.com/in/shresthasumit
