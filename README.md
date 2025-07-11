@@ -29,6 +29,6 @@ Dedicated and proactive IT System Administrator passionate about cybersecurity. 
 
 ### 🌐 Let's Connect:
 
-- **Email:** Sumitshrestha69@gmail.com
+- **Email:** sumit.stha1921@gmail.com
   
 - **LinkedIn:** www.linkedin.com/in/shresthasumit
